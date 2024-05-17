@@ -1,0 +1,3 @@
+[submodule "lessons/git-workshop-conclusion"]
+	path = lessons/git-workshop-conclusion
+	url = git@github.com:lucianopf/git-workshop-conclusion.git
