@@ -60,3 +60,4 @@ Vamos corrigir esse problema!
 --- 
 
 Podemos seguir para a próxima aula na branch `lesson-4`.
+
